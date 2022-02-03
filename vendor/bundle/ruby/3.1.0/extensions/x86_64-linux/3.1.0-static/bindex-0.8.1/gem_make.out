@@ -1,0 +1,16 @@
+current directory: /workspaces/56373711/saas_app/simplecodecasts_saas/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+/usr/local/bin/ruby -I /usr/local/lib/ruby/3.1.0 -r ./siteconf20220203-32123-ngvwjl.rb extconf.rb
+creating Makefile
+
+current directory: /workspaces/56373711/saas_app/simplecodecasts_saas/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= clean
+
+current directory: /workspaces/56373711/saas_app/simplecodecasts_saas/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\=
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /workspaces/56373711/saas_app/simplecodecasts_saas/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= install
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so

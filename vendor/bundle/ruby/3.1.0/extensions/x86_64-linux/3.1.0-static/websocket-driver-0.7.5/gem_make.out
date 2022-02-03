@@ -1,0 +1,16 @@
+current directory: /workspaces/56373711/saas_app/simplecodecasts_saas/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/usr/local/bin/ruby -I /usr/local/lib/ruby/3.1.0 -r ./siteconf20220203-32123-ohjt7b.rb extconf.rb
+creating Makefile
+
+current directory: /workspaces/56373711/saas_app/simplecodecasts_saas/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= clean
+
+current directory: /workspaces/56373711/saas_app/simplecodecasts_saas/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\=
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /workspaces/56373711/saas_app/simplecodecasts_saas/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= install
+compiling websocket_mask.c
+linking shared-object websocket_mask.so

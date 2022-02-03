@@ -1,0 +1,16 @@
+current directory: /workspaces/56373711/saas_app/simplecodecasts_saas/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.10.3/ext/bootsnap
+/usr/local/bin/ruby -I /usr/local/lib/ruby/3.1.0 -r ./siteconf20220203-32123-buq79v.rb extconf.rb
+creating Makefile
+
+current directory: /workspaces/56373711/saas_app/simplecodecasts_saas/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.10.3/ext/bootsnap
+make DESTDIR\= clean
+
+current directory: /workspaces/56373711/saas_app/simplecodecasts_saas/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.10.3/ext/bootsnap
+make DESTDIR\=
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /workspaces/56373711/saas_app/simplecodecasts_saas/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.10.3/ext/bootsnap
+make DESTDIR\= install
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
