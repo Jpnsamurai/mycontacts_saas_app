@@ -13,7 +13,7 @@ gem "sprockets-rails", " ~> 2.0"
 gem "sqlite3", "~> 1.4", group: [:development, :test]
 
 # Use postgresql as the databatase for active record
-group :productiion do
+group :production do
   gem "pg"
   gem "rails_12factor"
 end
