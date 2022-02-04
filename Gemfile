@@ -23,7 +23,7 @@ end
 gem "puma", "~> 5.0"
 
 # Use SCSS for stylsheets
-gem "sass-rails", " 4.0.3"
+gem "sass-rails"
 
 # Use Uglifuer aas compressor for Javascript assets
 gem "uglifier", " 1.3.0"
