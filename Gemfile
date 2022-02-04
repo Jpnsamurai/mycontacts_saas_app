@@ -14,7 +14,8 @@ gem "sqlite3", "~> 1.4", group: [:development, :test]
 
 # Use postgresql as the databatase for active record
 group :productiion do
-  gem 'rails_12factor'
+  gem "pg"
+  gem "rails_12factor"
 end
 
 
